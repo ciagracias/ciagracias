@@ -7,6 +7,6 @@
 
 <p>Welcome to my page! <br/> I'm gracia, a student at the Institute of Technology Telkom Purwokerto in the Software Engineering department. </p>
 
-- :hammer_and_pick: C++ / CSS / HTML / Java / Python / SQL
-- :seedling: Currently studying data science
+- ⚒️ C++ / CSS / HTML / Java / Python / SQL
+- 👀 I'm interested in machine learning
 - 😄 Pronouns: she || her
