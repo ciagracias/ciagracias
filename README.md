@@ -6,7 +6,7 @@
 [![Behance: Gracia Rizka Pasfica](https://img.shields.io/twitter/url?label=Gracia%20Rizka%20Pasfica&logo=Behance&style=social&url=https%3A%2F%2Fwww.behance.net%2Fgraciarpasfica)](https://www.behance.net/graciarpasfica)
 
 
-<p>Welcome to my page! <br/> I'm gracia, a student at the Institute of Technology Telkom Purwokerto in the Software Engineering department. </p>
+<p>Welcome to my page! <br/> I'm gracia and this repository houses my profile description.
 
 - ⚒️ C++ / CSS / HTML / Java / Python / SQL
 - 👀 I'm interested in machine learning
