@@ -25,7 +25,7 @@
 
 ### Connect With Me <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60">
 
-[![Instagram: graciarp_](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/graciarp_/)
-[![Linkedin: graciarp](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gracia-rizka-pasfica-a22247220/)
+[![Instagram: graciarp_](https://img.shields.io/badge/-Instagram-D10000?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/graciarp_/)
+[![Linkedin: graciarp](https://img.shields.io/badge/-LinkedIn-004E97?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gracia-rizka-pasfica-a22247220/)
 [![GitHub: ciagracias](https://img.shields.io/badge/-Github-4E4E4E?style=flat-square&logo=Github&logoColor=white)](https://github.com/ciagracias)
 [![Behance: Gracia Rizka Pasfica](https://img.shields.io/badge/-Behance-0159FB?style=flat-square&logo=Behance&logoColor=white)](https://www.behance.net/graciarpasfica)
