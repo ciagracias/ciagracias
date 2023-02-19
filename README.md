@@ -21,7 +21,8 @@
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Gracia's GitHub stats](https://github-readme-stats.vercel.app/api?username=ciagracias&show_icons=true&theme=radical)
+![Gracia's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ciagracias&show_icons=true&theme=radical)
+![Gracia's Language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ciagracias&langs_count=6&exclude_repo=comp426&theme=radical)
 
 ### Connect With Me <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60">
 
