@@ -1,5 +1,7 @@
 <h2> Hey, Nice to see you. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
+
 <p>
   Welcome to my page! 👋 <br/> I'm gracia and this repository houses my profile description. <br/>
   I'm a graduate in Computer Science 🎓 from Institute Technology of Telkom Purwokerto🏛. <br/>
@@ -21,8 +23,7 @@
   
 ### ⚙️ &nbsp;GitHub Analytics
 
-![Gracia's GitHub statistics](https://github-readme-stats.vercel.app/api?username=ciagracias&show_icons=true&theme=tokyonight)
-![Gracia's Language statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=ciagracias&hide_progress=true&theme=tokyonight)
+![Gracia's github stats](https://github-readme-stats.vercel.app/api?username=ciagracias&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Connect With Me <img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="60">
 
